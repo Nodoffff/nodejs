@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "node": "^21.1.0",
+    "qs": "^6.11.2",
+    "sanitize-html": "^2.11.0"
+  },
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
